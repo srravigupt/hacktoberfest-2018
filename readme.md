@@ -18,9 +18,16 @@ There are many ways you can complete pull request. You can find open source proj
 By participating in Hacktoberfest you will receive hacktoberfest stickers, because what dev doesn’t love stickers? In addition you will receive a free hacktoberfest t-shirt!
 
 # Resources
+
+###How to Contribute
+
+[About Open Source](https://opensource.guide/how-to-contribute/)
+
 ### Places to Find Beginner Friendly Open Source Projects
 
-[Digital Ocean](https://hacktoberfest.digitalocean.com/)
+[Digital Ocean](https://hacktoberfest.digitalocean.com/#projects)
+
+[GitHub](https://help.github.com/articles/finding-open-source-projects-on-github/)
 
 [CodeNewbie](https://www.codenewbie.org/)
 
@@ -33,8 +40,6 @@ By participating in Hacktoberfest you will receive hacktoberfest stickers, becau
 [CommandLineHeroes/hero-engine: Open-source HTML5 adventure game engine](https://github.com/CommandLineHeroes/hero-engine)
 
 [Microsoft](https://opensource.microsoft.com/) (Also giving away an additional t-shirt! 😎)
-
-[Digital Ocean](https://hacktoberfest.digitalocean.com/)
 
 ### Places to Learn More About Open Source
 [Digital Ocean](https://hacktoberfest.digitalocean.com/)
