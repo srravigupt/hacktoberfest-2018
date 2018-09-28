@@ -21,7 +21,7 @@ By participating in Hacktoberfest you will receive hacktoberfest stickers, becau
 
 # Resources
 
-###How to Contribute
+### How to Contribute
 
 [About Open Source](https://opensource.guide/how-to-contribute/)
 
