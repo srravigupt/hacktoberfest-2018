@@ -29,7 +29,9 @@ By participating in Hacktoberfest you will receive hacktoberfest stickers, becau
 
 [Digital Ocean](https://hacktoberfest.digitalocean.com/#projects)
 
-[GitHub - Awesome First PR Opportunities](https://help.github.com/articles/finding-open-source-projects-on-github/)
+[GitHub](https://help.github.com/articles/finding-open-source-projects-on-github/)
+
+[GitHub - Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)
 
 [CodeNewbie](https://www.codenewbie.org/)
 
@@ -42,8 +44,6 @@ By participating in Hacktoberfest you will receive hacktoberfest stickers, becau
 [CommandLineHeroes/hero-engine: Open-source HTML5 adventure game engine](https://github.com/CommandLineHeroes/hero-engine)
 
 [Microsoft](https://opensource.microsoft.com/) (Also giving away an additional t-shirt! 😎)
-
-[GitHub - Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)
 
 ### Places to Learn More About Open Source
 [Digital Ocean](https://hacktoberfest.digitalocean.com/)
