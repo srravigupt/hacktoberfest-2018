@@ -4,7 +4,9 @@
 Hacktoberfest is a month-long celebration of open source software, spearheaded by Digital Ocean, GitHub, and Twilio. Essentially it’s a great way to contribute to open source software and give back to the coding community. You likely use open source software every day and may not even realize it. Hacktoberfest serves as both a celebration and a reminder and helps bring devs together to focus on working on improving open source software.
 
 # How Do You Participate
-Complete five pull request on GitHub-hosted repositories.
+Register at the official Hacktober website [here](https://hacktoberfest.digitalocean.com/).
+
+Complete five pull request on GitHub-hosted repositories anytime between Oct 1 -- Oct 31.
 
 There are many ways you can complete pull request. You can find open source projects and contribute, you can attend meetups (highly recommend), and you can do pull request right here with GWU!  
 
@@ -19,7 +21,7 @@ By participating in Hacktoberfest you will receive hacktoberfest stickers, becau
 
 # Resources
 
-###How to Contribute
+### How to Contribute
 
 [About Open Source](https://opensource.guide/how-to-contribute/)
 
@@ -40,6 +42,8 @@ By participating in Hacktoberfest you will receive hacktoberfest stickers, becau
 [CommandLineHeroes/hero-engine: Open-source HTML5 adventure game engine](https://github.com/CommandLineHeroes/hero-engine)
 
 [Microsoft](https://opensource.microsoft.com/) (Also giving away an additional t-shirt! 😎)
+
+[GitHub - Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)
 
 ### Places to Learn More About Open Source
 [Digital Ocean](https://hacktoberfest.digitalocean.com/)
