@@ -27,7 +27,7 @@ By participating in Hacktoberfest you will receive hacktoberfest stickers, becau
 
 [Digital Ocean](https://hacktoberfest.digitalocean.com/#projects)
 
-[GitHub](https://help.github.com/articles/finding-open-source-projects-on-github/)
+[GitHub - Awesome First PR Opportunities](https://help.github.com/articles/finding-open-source-projects-on-github/)
 
 [CodeNewbie](https://www.codenewbie.org/)
 
@@ -44,8 +44,13 @@ By participating in Hacktoberfest you will receive hacktoberfest stickers, becau
 ### Places to Learn More About Open Source
 [Digital Ocean](https://hacktoberfest.digitalocean.com/)
 
-[Command Line Heroes](https://www.redhat.com/en/command-line-heroes)
+[Command Line Heroes Podcast](https://www.redhat.com/en/command-line-heroes)
 
-[CodeNewbie](https://www.codenewbie.org/podcast)
+[CodeNewbie Podcast](https://www.codenewbie.org/podcast)
 
 
+### Easy First PR!!!
+For your first pull request you can simply add your name to this list of people participating in Hacktoberfest 2018 from our class. Clone this repo down onto your local machine, add your name to the list, and make your PR.
+
+### Hacktoberfest 2018 Participants
+* Marquet Reid
