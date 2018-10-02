@@ -68,3 +68,5 @@ For your first pull request you can simply add your name to this list of people 
 
 ### Hacktoberfest 2018 Participants
 * Marquet Reid
+* Christina Cornell
+* Ed Orsini
