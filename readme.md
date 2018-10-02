@@ -62,8 +62,8 @@ For your first pull request you can simply add your name to this list of people 
 
 ### Three Quick and Easy Steps
 
-* Fork this repo to your github account.
-* You can clone down your forked version or create an edit to the readme straight from the github GUI if you would like.
+* Fork this repo to your GitHub account using the icon in the upper right corner.
+* You can clone down your forked version or create an edit to the readme straight from the GitHub GUI if you would like.
 * You can then click the Pull Request tab from your forked repo or my repo click "Create pull reqeust" and write "added my name to list" and submit.
 
 ### Hacktoberfest 2018 Participants
