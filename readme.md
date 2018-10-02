@@ -70,3 +70,4 @@ For your first pull request you can simply add your name to this list of people 
 * Marquet Reid
 * Christina Cornell
 * Ed Orsini
+* Janel Jones
