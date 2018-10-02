@@ -58,5 +58,13 @@ By participating in Hacktoberfest you will receive hacktoberfest stickers, becau
 ### Easy First PR!!!
 For your first pull request you can simply add your name to this list of people participating in Hacktoberfest 2018 from our class. Clone this repo down onto your local machine, add your name to the list, and make your PR.
 
+# WAIT HOW DO I MAKE A PR?!
+
+### Three Quick and Easy Steps
+
+* Fork this repo to your github account.
+* You can clone down your forked version or create an edit to the readme straight from the github GUI if you would like.
+* You can then click the Pull Request tab from your forked repo or my repo click "Create pull reqeust" and write "added my name to list" and submit.
+
 ### Hacktoberfest 2018 Participants
 * Marquet Reid
