@@ -73,3 +73,4 @@ For your first pull request you can simply add your name to this list of people 
 * Janel Jones
 * Rahul Prasad
 * Ravi Gupta
+* Vishal Bhardwaj
